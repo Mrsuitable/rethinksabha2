@@ -14,17 +14,17 @@ export const NAVIGATION_LINKS: NavLink[] = [
 export const SAMPLE_DEBATE_TOPICS: DebateTopic[] = [
   {
     id: 'dt001',
-    title: "Is Indian Modernisation Good?",
-    description: "A deep dive into the multifaceted impacts of modernization on Indian society, culture, and identity.",
-    longDescription: "This debate explores the complex interplay between India's rich cultural heritage and the relentless drive towards modernization. We will dissect arguments championing the preservation of traditional values and indigenous practices against those advocating for the embrace of globalized modern norms and technological advancement. Is it a zero-sum game where heritage must be sacrificed for progress, or can a harmonious synthesis be achieved? Join us to critically examine the socio-economic, cultural, ethical, and psychological implications of India's transformative modernization journey.",
+    title: "Are Competitions good For the Indian society?",
+    description: "This debate explores whether the nature of US indians being supeeeerrrr competition is good or not.",
+    longDescription: "The debate on “Is Competition Good for Indian Society?” is all about questioning something we live with every day. From board exams to cricket matches, job hunts to startup culture, competition is everywhere in India. Some say it’s the fuel that keeps us hustling, innovating, and proving ourselves on the global stage. Others feel it’s turning life into a never-ending rat race, where mental health suffers and collaboration takes a backseat. In this debate, we’ll dig into whether competition is actually making us sharper and stronger, or just more stressed and divided..",
     keyPoints: [
-      "Preserving Cultural Roots: The imperative of safeguarding traditions, linguistic diversity, indigenous knowledge systems, and unique cultural identities in an era of increasing global homogeneity.",
-      "Embracing Progress & Innovation: The necessity of adopting modern advancements in technology, science, governance, and social structures for economic growth, improved quality of life, and global competitiveness.",
-      "The Ethical Dilemmas: Navigating moral questions arising from modernization, such as digital divide, environmental impact, changing social mores, and the definition of a 'developed' society.",
-      "Pathways to Synthesis: Exploring models and strategies where traditional wisdom and modern innovation can coexist and complement each other, fostering a uniquely Indian model of development."
-    ],
+     Driver of Growth & Innovation – Competition pushes individuals and organizations to perform better, sparking creativity, innovation, and efficiency in fields like education, sports, business, and technology.
+
+Creates Pressure & Inequality – Too much competition can lead to stress, burnout, and unhealthy comparisons, especially among students and youth, while also widening gaps between the privileged and underprivileged.
+
+Balance of Competition & Collaboration – While healthy competition can inspire excellence, Indian society also needs cooperation, empathy, and teamwork to ensure inclusive growth and social harmony.
     date: "Upcoming - Date TBD",
-    category: "Socio-Cultural Evolution & National Identity",
+    category: "Socio-Cultural Evolution ",
     icon: ChatBubbleLeftRightIcon,
   },
   // {
