@@ -89,6 +89,9 @@ const DebateDetailModal: React.FC<DebateDetailModalProps> = ({ topic, onClose })
             </div>
           )}
         </div>
+        <div>
+          <h1>Link For Registration</h1>
+        </div>
          <button
             onClick={onClose}
             className="mt-6 w-full bg-brand-gold text-brand-deep-blue font-bold py-3 px-6 rounded-lg text-lg hover:bg-yellow-400 transition-colors duration-300 shadow-md hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-brand-platinum focus:ring-opacity-50"
