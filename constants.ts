@@ -66,4 +66,5 @@ Balance of Competition & Collaboration – While healthy competition can inspire
   // }
 ];
 
-export const CLUB_EMAIL = "sunitechtuber@gmail.com";
+export const CLUB_EMAIL = "rethinksabha@gmail.com
+";
